@@ -3,9 +3,8 @@
  */
 public class Cheer {
 
-  public void cheer(String messageOne, String messageTwo) {
-    System.out.println(messageOne);
-    System.out.println(messageTwo);
+  public void cheer(String message) {
+    System.out.println("Cheer for the" + message);
   }
 
 }
