@@ -1,6 +1,6 @@
 
 public class Greet {
-  public void greet(){
-    System.out.println("Kristof Majoros");
+  public void greet(String parameter){
+    System.out.println(parameter);
   }
 }
