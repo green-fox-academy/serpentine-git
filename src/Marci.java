@@ -1,8 +1,7 @@
 public class Marci {
 
-
-  public void count(int number) {
-    System.out.println(number);
+  public void count(int number, String message) {
+    System.out.println(number + message);
   }
 
 }
