@@ -3,8 +3,8 @@
  */
 public class Cheer {
 
-  public void cheer() {
-    System.out.println("Serpentine");
+  public void cheer(String message) {
+    System.out.println(message);
   }
 
 }
