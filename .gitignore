@@ -34,7 +34,7 @@ hs_err_pid*
 out/
 .idea/
 *.iws
-*.iml
+# *.iml ## reenable IntelliJ project settings file
 *.ipr
 *.class
 
