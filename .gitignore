@@ -32,10 +32,12 @@ hs_err_pid*
 
 # IntelliJ #
 out/
-.idea/
+#  .idea/  ## allow IntelliJ project settings file
+.idea/workspace.xml
+.idea/tasks.xml
 *.iws
-# *.iml ## reenable IntelliJ project settings file
-*.ipr
+#   *.iml  ## allow IntelliJ project settings files
+#   *.ipr  ## allow IntelliJ project settings files
 *.class
 
 # Gradle #
