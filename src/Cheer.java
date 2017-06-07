@@ -4,7 +4,7 @@
 public class Cheer {
 
   public void cheer() {
-    System.out.println("Serpentine");
+    System.out.println("Java");
   }
 
 }
